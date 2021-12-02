@@ -1,0 +1,14 @@
+<h1>Hois desde los articulos</h1>
+
+<div id="posts">
+    <ul>
+        <li *ngFor="let articulo of Articulos">
+            <h1 class="parrafo"> {{articulo.title}} </h1>
+            <p> {{articulo.ruta}}</p>
+            <p>{{articulo.autor}} </p>
+            <p>{{articulo.content}} </p><br>
+            <img src="{{articulo.image}}"><br><br>
+            <a href={{articulo.Reference}}>Artículo completo</a>
+        </li>
+    </ul>
+</div>

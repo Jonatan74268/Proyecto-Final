@@ -1,14 +1,19 @@
-<h1>Hois desde los articulos</h1>
 
 <div id="posts">
     <ul>
-        <li *ngFor="let articulo of Articulos">
-            <h1 class="parrafo"> {{articulo.title}} </h1>
-            <p> {{articulo.ruta}}</p>
-            <p>{{articulo.autor}} </p>
+        <div class="container" *ngFor="let articulo of Articulos">
+            <h1 class="Titulo-Articulo"> {{articulo.title}} </h1>
+            <p class="p-Resumen"> {{articulo.abstract}}</p>
+            <hr class="hr1">
+            <hr class="hr2">
+            <p class="p-autor">{{articulo.autor}} </p>
+            <div class="Img-Articulo rounded mx-auto d-block img-fluid">
+            <img src="{{articulo.image}}"  class="img-fluid" alt="...">
+            <p class="pie-de-imagen">Some quick example text to build on the card title and make up the bulk of the card's content.Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            </div>
             <p>{{articulo.content}} </p><br>
-            <img src="{{articulo.image}}"><br><br>
             <a href={{articulo.Reference}}>Artículo completo</a>
-        </li>
+            <hr class="hr3">
+        </div>
     </ul>
 </div>

@@ -1,8 +1,9 @@
 [
     {
-      "title": "Título 1",
+      "title": "Hallan los fósiles más antiguos de la Tierra",
+      "abstract":"Restos de microorganismos de 3.770 millones de años, que fueron descubiertos en rocas sedimentarias de antiguas fuentes hidrotermales, se convirtieron en la primera evidencia de vida en la Tierra. ",
       "ruta": "ruta",
-      "autor": "autor",
+      "autor": "Por SINC el 2 de marzo de 2017",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum vulputate feugiat. In facilisis eleifend lorem rutrum vehicula. Quisque posuere ultricies mauris. Phasellus ut feugiat nisl, at iaculis erat. Morbi maximus nibh in efficitur vestibulum. Sed vitae diam sed mauris aliquam porta. Mauris mauris ipsum, sagittis at justo nec, tempus gravida sem. Sed odio ipsum, convallis vitae ipsum id, commodo elementum urna. Nam eget dignissim sapien. Aliquam enim magna, commodo quis nisl eget, gravida tristique quam. Pellentesque luctus lorem quis dui condimentum, nec convallis libero scelerisque. Aliquam ultricies, quam rutrum ultricies tempus, lacus metus ornare mi, ut cursus velit est eget nulla. Fusce ultrices sagittis justo mattis posuere.",
       "image": "assets/img/dos.jpg",
       "Reference": "https://bajio.delasalle.edu.mx/"
@@ -10,10 +11,11 @@
 
     {
       "title": "Título 2",
+      "abstract":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum vulputate feugiat.",
       "ruta": "ruta",
       "autor": "autor",
       "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum vulputate feugiat. In facilisis eleifend lorem rutrum vehicula. Quisque posuere ultricies mauris. Phasellus ut feugiat nisl, at iaculis erat. Morbi maximus nibh in efficitur vestibulum. Sed vitae diam sed mauris aliquam porta. Mauris mauris ipsum, sagittis at justo nec, tempus gravida sem. Sed odio ipsum, convallis vitae ipsum id, commodo elementum urna. Nam eget dignissim sapien. Aliquam enim magna, commodo quis nisl eget, gravida tristique quam. Pellentesque luctus lorem quis dui condimentum, nec convallis libero scelerisque. Aliquam ultricies, quam rutrum ultricies tempus, lacus metus ornare mi, ut cursus velit est eget nulla. Fusce ultrices sagittis justo mattis posuere.",
-      "image": "assets/img/dos.jpg",
+      "image": "assets/img/tres.jpg",
       "Reference": "https://bajio.delasalle.edu.mx/"
     }
 ]

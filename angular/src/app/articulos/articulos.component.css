@@ -1,12 +1,18 @@
-.Titulo-Articulo {  
+.Titulo-Articulo {
     text-align: center;
-    font-size:3.5em;
+    font-size:  60px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 30px;
 }
 
-.p-Resumen {  
+.p-Resumen {
     text-align: center;
-    font-size:1.5em;
+    font-size: 17px;;
     margin-bottom: 1em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
 
 }
 
@@ -14,8 +20,8 @@
     display: block;
     margin-top: 0.1em;
     margin-bottom: 0.1em;
-    margin-left: 37em;
-    margin-right: 37em;
+    margin-left: 30em;
+    margin-right: 30em;
     border-style: solid;
     border-width:0.01cm;
 } 
@@ -23,10 +29,10 @@
     display: block;
     margin-top: 0.1em;
     margin-bottom: 0.1em;
-    margin-left: 37em;
-    margin-right: 37em;
+    margin-left: 30em;
+    margin-right: 30em;
     border-style: solid;
-    border-width: 0cm;
+    border-width: 0.01cm;
 }
 
 .hr3 { 
@@ -36,14 +42,17 @@
     margin-left: auto;
     margin-right: auto;
     border-style: solid;
-    border-width: 0cm;
+    border-width: 0.01cm;
 }
 
 
-.p-autor {  
+.p-autor {
     text-align: center;
     margin-top: 1em;
     font-size:1em;
+    font-family: sans-serif;
+    font-weight: normal;
+
 }
 
 
@@ -53,13 +62,53 @@
 }
 
 .pie-de-imagen{
+    text-align: justify;
     margin-left: auto;
     margin-right: auto;
     font-size:0.7em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: normal;
 
 }
 
-.p-datos {  
+.p-datos {
     text-align: center;
-    font-size:1.5em
+    font-size:1.5em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+.p-content {
+text-align: justify;
+font-size: 20px;
+font-family:  'Times New Roman', Times, serif;
+font-weight: normal;
+}
+
+.p-referencia {
+    text-align: right;
+    font-size: 13px;
+    font-family:  'Times New Roman', Times, serif;
+    font-weight: normal;
+}
+
+.form-submit {
+    display: inline-block;
+    background: #0b96ff;
+    color: #fff;
+    border-bottom: none;
+    /* width: auto; */
+    padding: 15px 39px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -o-border-radius: 5px;
+    -ms-border-radius: 5px;
+    margin-top: 25px;
+    cursor: pointer; 
+    border: 0px;
+}
+.form-submit:hover {
+    background: #6dabe4; 
 }

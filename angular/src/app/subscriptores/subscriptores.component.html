@@ -1,0 +1,30 @@
+<h1 class="Titulo-Subs">Embajadores</h1>
+<div id="posts">
+        <div class="container">
+
+<table class="table table-striped">
+    <thead class="thead-light">
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Nombre</th>
+        <th scope="col">País</th>
+        <th scope="col">Fecha de registro</th>
+        <th scope="col">Correo</th>
+        <th scope="col">Telefono</th>
+      </tr>
+    </thead>
+
+    <tbody>
+      <tr  *ngFor="let subdirector of subscriptores">
+        <td>{{subdirector.UserID}} </td>
+        <td > <img src="{{subdirector.Image}}"  class="circular--square" alt="..."> &nbsp;&nbsp; &nbsp; &nbsp;  {{subdirector.Nombre}} </td>
+        <td>{{subdirector.Pais}} </td>
+        <td>{{subdirector.Fecha}}</td>
+        <td>{{subdirector.Correo}}</td>
+        <td>{{subdirector.Telefono}}</td>
+      </tr>
+    </tbody>
+  </table>
+ 
+        </div>
+</div>

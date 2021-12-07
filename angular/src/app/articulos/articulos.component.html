@@ -1,4 +1,3 @@
-
 <div id="posts">
     <ul>
         <div class="container" *ngFor="let articulo of Articulos">
@@ -9,10 +8,11 @@
             <p class="p-autor">{{articulo.autor}} </p>
             <div class="Img-Articulo rounded mx-auto d-block img-fluid">
             <img src="{{articulo.image}}"  class="img-fluid" alt="...">
-            <p class="pie-de-imagen">Some quick example text to build on the card title and make up the bulk of the card's content.Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <p class="pie-de-imagen">{{articulo.piepagina}}</p>
             </div>
-            <p>{{articulo.content}} </p><br>
-            <a href={{articulo.Reference}}>Artículo completo</a>
+            <p class="p-content">{{articulo.content}} </p><br>
+            <p class="p-referencia">{{articulo.referencias}} </p><br>
+            <a href={{articulo.Link}}> <button class="form-submit">Más información</button></a>
             <hr class="hr3">
         </div>
     </ul>

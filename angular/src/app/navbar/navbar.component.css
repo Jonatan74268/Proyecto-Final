@@ -1,0 +1,9 @@
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+
+nav{
+    width: 100%;
+}

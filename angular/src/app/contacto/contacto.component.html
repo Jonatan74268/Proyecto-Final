@@ -1,30 +1,81 @@
 <div class="container">
   <h1 class="Titulo-Contacto">Contacto</h1>
-  <form>
-      <div class="mb-3">
-          <label for="exampleInputEmail1" class="form-label">Nombre</label>
-          <input type="name" class="form-control" id="InputNombre">
-        </div>
-        <div class="mb-3">
-          <label for="exampleInputEmail1" class="form-label">Apellido</label>
-          <input type="lastname" class="form-control" id="InputApellido" >
-        </div>
-        <div class="mb-3">
-          <label for="exampleInputEmail1" class="form-label">Teléfono</label>
-          <input type="phone" class="form-control" id="InputTelefono">
-        </div>
-      <div class="mb-3">
-        <label for="exampleInputEmail1" class="form-label">Correo</label>
-        <input type="email" class="form-control" id="InputEmail" aria-describedby="emailHelp">
-        <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+    <div class="row">
+      <div class="col-6">
+        <form id="formcontacto" action="https://formsubmit.co/pruebasdmn@gmail.com" method="post">
+          <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Nombre(s)*</label>
+              <input type="text" class="form-control" id="InputNombre" name="Nombre">
+            </div>
+    
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Apellidos*</label>
+              <input type="text" class="form-control" id="InputApellido" name="Apellidos">
+            </div>
+    
+            <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Teléfono*</label>
+              <input type="number" class="form-control" id="InputTelefono" name="Teléfono">
+            </div>
+    
+          <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Correo*</label>
+            <input type="email" class="form-control" id="InputEmail" name="Correo">
+            <div id="emailHelp" class="form-text">Jamás compartiremos tu correo con alguien más.</div>
+          </div>
+    
+          <div class="mb-3">
+              <label for="exampleInputEmail1" class="form-label">Comentarios*</label>
+              <input type="text" class="form-control" id="InputComment" name="Mensaje">
+            </div>
+    
+          <button type="button" id="btnenviar" class="form-submit" onclick="getData()">Submit</button>
+        </form>
+        <br>
       </div>
-      <div class="mb-3">
-          <label for="exampleInputEmail1" class="form-label">Comentarios</label>
-          <input type="comment" class="form-control" id="InputComment" >
-        </div>
-      <button type="submit" class="btn btn-primary">Submit</button>
-    </form>
+      <div class="col-6 centrar">
+        <img class="imgcon" src="../assets/img/onucontacto.jpg">
+      </div>
+    </div>
   </div>
 
-    
 
+  <!--Formulario bonitoooo intento 1-->
+
+  <!-- <section class="signup">
+    <div class="container">
+        <div class="signup-content">
+            <div class="signup-form">
+                <h2 class="form-title">Sign up</h2>
+                <form method="POST" class="register-form" id="register-form">
+                    <div class="form-group">
+                        <label for="name"><i class="zmdi zmdi-account material-icons-name"></i></label>
+                        <input type="text" name="name" id="name" placeholder="Your Name"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="email"><i class="zmdi zmdi-email"></i></label>
+                        <input type="email" name="email" id="email" placeholder="Your Email"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="pass"><i class="zmdi zmdi-lock"></i></label>
+                        <input type="password" name="pass" id="pass" placeholder="Password"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="re-pass"><i class="zmdi zmdi-lock-outline"></i></label>
+                        <input type="password" name="re_pass" id="re_pass" placeholder="Repeat your password"/>
+                    </div>
+                    <div class="form-group">
+                        <input type="checkbox" name="agree-term" id="agree-term" class="agree-term" />
+                        <label for="agree-term" class="label-agree-term"><span><span></span></span>I agree all statements in  <a href="#" class="term-service">Terms of service</a></label>
+                    </div>
+                    <div class="form-group form-button">
+                        <input type="submit" name="signup" id="signup" class="form-submit" value="Register"/>
+                    </div>
+                </form>
+            </div>
+            <div class="signup-image">
+                <figure><img src="assets/img/unop.jpg" alt="sing up image"></figure>
+            </div>
+        </div>
+    </div>
+</section> -->

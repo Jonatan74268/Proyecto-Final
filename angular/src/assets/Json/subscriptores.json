@@ -1,0 +1,92 @@
+[
+    {
+      "UserID": 1,
+      "Nombre": "Fernando García",
+      "Pais": "México",
+      "Fecha": "19-06-2000",
+      "Correo": "fergar@gmail.com",
+      "Telefono": "8681252891",
+      "Image": "assets/img/cara1.jpg"
+    },
+    {
+        "UserID": 2,
+        "Nombre": "Olivia Garmet",
+        "Pais": "Francia",
+        "Fecha": "11-05-2010",
+        "Correo": "o.garmet@gmail.com",
+        "Telefono": "4771817388",
+        "Image": "assets/img/cara2.jpg"
+      },  
+        {
+        "UserID": 3,
+        "Nombre": "Giselle Lapadula",
+        "Pais": "Perú",
+        "Fecha": "19-06-2000",
+        "Correo": "gigiol@gmail.com",
+        "Telefono": "7771239876",
+        "Image": "assets/img/cara3.jpg"
+      },
+      {
+        "UserID": 4,
+        "Nombre": "Jorge Díaz",
+        "Pais": "México",
+        "Fecha": "14-01-2019",
+        "Correo": "jdiazd@outlook.com",
+        "Telefono": "4734569876",
+        "Image": "assets/img/cara4.jpg"
+      },
+      {
+        "UserID": 5,
+        "Nombre": "Roberto Garces",
+        "Pais": "Guatemala",
+        "Fecha": "23-11-2020",
+        "Correo": "roberg@gmail.com",
+        "Telefono": "8654732364",
+        "Image": "assets/img/cara5.jpg"
+      },
+      {
+        "UserID": 6,
+        "Nombre": "Paulina López-Garrier",
+        "Pais": "México",
+        "Fecha": "11-08-2011",
+        "Correo": "plopezgarrier@gmail.com",
+        "Telefono": "5554327656",
+        "Image": "assets/img/cara6.jpg"
+      },
+      {
+        "UserID": 7,
+        "Nombre": "Mauricio Urretaviscaya",
+        "Pais": "Uruguay",
+        "Fecha": "03-03-2017",
+        "Correo": "urretamau@gmail.com",
+        "Telefono": "9835621973",
+        "Image": "assets/img/cara7.jpg"
+      },
+      {
+        "UserID": 8,
+        "Nombre": "William Koch",
+        "Pais": "Estados Unidos",
+        "Fecha": "19-01-1999",
+        "Correo": "willkoch@yahoo.com",
+        "Telefono": "5338907654",
+        "Image": "assets/img/cara8.jpg"
+      },
+      {
+        "UserID": 9,
+        "Nombre": "Marshall Mathers III",
+        "Pais": "Estados Unidos",
+        "Fecha": "11-02-2018",
+        "Correo": "MMIII@gmail.com",
+        "Telefono": "4985643876",
+        "Image": "assets/img/cara9.jpg"
+      },
+      {
+        "UserID": 10,
+        "Nombre": "O'Shea Jackson",
+        "Pais": "Reino Unido",
+        "Fecha": "04-09-2016",
+        "Correo": "icejackson@gmail.com",
+        "Telefono": "6665436778",
+        "Image": "assets/img/cara10.jpg"
+      }
+  ]

@@ -1,21 +1,57 @@
 [
-    {
-      "title": "Hallan los fósiles más antiguos de la Tierra",
-      "abstract":"Restos de microorganismos de 3.770 millones de años, que fueron descubiertos en rocas sedimentarias de antiguas fuentes hidrotermales, se convirtieron en la primera evidencia de vida en la Tierra. ",
-      "ruta": "ruta",
-      "autor": "Por SINC el 2 de marzo de 2017",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum vulputate feugiat. In facilisis eleifend lorem rutrum vehicula. Quisque posuere ultricies mauris. Phasellus ut feugiat nisl, at iaculis erat. Morbi maximus nibh in efficitur vestibulum. Sed vitae diam sed mauris aliquam porta. Mauris mauris ipsum, sagittis at justo nec, tempus gravida sem. Sed odio ipsum, convallis vitae ipsum id, commodo elementum urna. Nam eget dignissim sapien. Aliquam enim magna, commodo quis nisl eget, gravida tristique quam. Pellentesque luctus lorem quis dui condimentum, nec convallis libero scelerisque. Aliquam ultricies, quam rutrum ultricies tempus, lacus metus ornare mi, ut cursus velit est eget nulla. Fusce ultrices sagittis justo mattis posuere.",
-      "image": "assets/img/dos.jpg",
-      "Reference": "https://bajio.delasalle.edu.mx/"
-    },
-
-    {
-      "title": "Título 2",
-      "abstract":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum vulputate feugiat.",
-      "ruta": "ruta",
-      "autor": "autor",
-      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec elementum vulputate feugiat. In facilisis eleifend lorem rutrum vehicula. Quisque posuere ultricies mauris. Phasellus ut feugiat nisl, at iaculis erat. Morbi maximus nibh in efficitur vestibulum. Sed vitae diam sed mauris aliquam porta. Mauris mauris ipsum, sagittis at justo nec, tempus gravida sem. Sed odio ipsum, convallis vitae ipsum id, commodo elementum urna. Nam eget dignissim sapien. Aliquam enim magna, commodo quis nisl eget, gravida tristique quam. Pellentesque luctus lorem quis dui condimentum, nec convallis libero scelerisque. Aliquam ultricies, quam rutrum ultricies tempus, lacus metus ornare mi, ut cursus velit est eget nulla. Fusce ultrices sagittis justo mattis posuere.",
-      "image": "assets/img/tres.jpg",
-      "Reference": "https://bajio.delasalle.edu.mx/"
-    }
+  {
+    "title": "Reducción de las desigualdades",
+    "piepagina": "Se busca reducir las desigualdades de ingresos que existen dentro de los países y garantizar que nadie se quede atrás en cuestión de salud, alimentación y economía, estos puntos forman parte integral y esencial en la consecución de los Objetivos de Desarrollo Sostenible que tiene el Programa de las Naciones Unidas para el Desarrollo.",
+    "abstract": "¿Cuál es el objetivo principal de la reduccíon de las desigualdades? ",
+    "ruta": "",
+    "autor": "Por UNDP el 25 de Julio de 2020",
+    "content": "Para frenar este aumento de las disparidades, es necesario que se adopten nuevas políticas sólidas que empoderen a las personas de bajos ingresos y promuevan la inclusión económica de todos y todas, independientemente de su género, raza o etnia. Al realizar esto, pondremos en practica la capacidad de la sociedad de mejorar por cuenta propia y de forma general. Se planea unificar de poco en poco las sociedades para que no existan dentro de las mismas el racismo, clasismo etc. Si podemos lograr esto nos veremos beneficiados de una manera inmensa ya que seremos capaces de vernos solamente como seres humanos, sin la necesidad de estar peleando por cosas que no llegasen a tener sentido.",
+    "image": "assets/img/nuevaash.jpg",
+    "Link": "https://www.un.org/sustainabledevelopment/es/inequality/",
+    "referencias":"Reducir las desigualdades entre países y dentro de ellos - Desarrollo Sostenible. (2021). Retrieved 7 December 2021"
+  },
+  {
+    "title": "¿Cuáles son las cifras de desigualdad a nivel mundial?",
+    "piepagina": "Es evidente la necesidad de lograr un crecimiento inclusivo, equitativo y sostenible, que garantice el equilibrio entre las dimensiones económica, social y ambiental del desarrollo sostenible.",
+    "abstract": "La desigualdad de ingresos está en aumento se estima que el 10% más rico de la población se queda hasta con el 40% del ingreso mundial total, mientras que el 10% más pobre obtiene solo entre el 2% y el 7% del ingreso total.",
+    "ruta": "",
+    "autor": "Por PNUD el 11 de Mayo de 2019",
+    "content": "\nEn los países en desarrollo,\n la desigualdad ha aumentado un 11% considerando el aumento de la población. La desigualdad de ingresos ha aumentado en casi todas partes en las últimas décadas, pero a diferentes velocidades. La más baja es en Europa y la más alta es en el Medio Oriente. En cifras concretas tenemos que: En 2016, el 22% del ingreso global fue recibido por el 1% superior, mientras que el 10% del ingreso fue recibido por el 50% inferior. En 1980, el 1% superior tenía el 16% de los ingresos globales. El 50% inferior poseía el 8% de estos ingresos. La desigualdad económica es impulsada en gran medida por la propiedad desigual del capital. Desde 1980, se produjeron grandes transferencias de la riqueza pública a la privada en casi todos los países. La repartición de la riqueza global del 1% superior fue del 33% en 2016. Si las cosas siguen ‘como de costumbre’, el 1% más rico del mundo alcanzará el 39% para 2050. Las mujeres pasan, en promedio, el doble de tiempo en el trabajo doméstico no remunerado que los hombres. Las mujeres tienen el mismo acceso a los servicios financieros que los hombres en solo el 60% de los países evaluados y a la propiedad de la tierra en solo el 42% de los países evaluados.",
+    "image": "assets/img/porcentaje.png",
+    "Link": "https://www.un.org/es/un75/inequality-bridging-divide",
+    "referencias":"Nations, U. (2021). Desigualdad: cómo subsanar las diferencias | Naciones Unidas. Retrieved 7 December 2021"
+  },
+  {
+    "title": "La desigualdad frente al COVID-19",
+    "piepagina": "Las desigualdades también están aumentando para las poblaciones vulnerables en países con sistemas sanitarios más deficientes y en países que se enfrentan a crisis humanitarias existentes.",
+    "abstract": "El COVID-19 ha intensificado las desigualdades existentes y ha afectado más que nadie a los pobres y las comunidades más vulnerables. ",
+    "ruta": "",
+    "autor": "Por CEPAL el 01 de Marzo de 2021",
+    "content": "Para frenar este aumento de las disparidades, es necesario que se adopten nuevas políticas sólidas que empoderen a las personas de bajos ingresos y promuevan la inclusión económica de todos y todas, independientemente de su género, raza o etnia. Al realizar esto, pondremos en practica la capacidad de la sociedad de mejorar por cuenta propia y de forma general. Se planea unificar de poco en poco las sociedades para que no existan dentro de las mismas el racismo, clasismo etc. Si podemos lograr esto nos veremos beneficiados de una manera inmensa ya que seremos capaces de vernos solamente como seres humanos, sin la necesidad de estar peleando por cosas que no llegasen a tener sentido.",
+    "image": "assets/img/desigualdadcovid.jpg",
+    "Link": "https://ayudaenaccion.org/ong/blog/derechos-humanos/ods-10-reduccion-desigualdades/",
+    "referencias":"ODS 10: reducción de las desigualdades | Ayuda en Acción. (2019). Retrieved 7 December 2021"
+  },
+  {
+    "title": "¿La desigualdad va en aumento?",
+    "piepagina": "Cuando las desigualdades son considerables, desalientan la formación profesional, obstruyen la movilidad económica y social y el desarrollo humano y, en consecuencia, inhiben el crecimiento económico.",
+    "abstract": "Las desigualdades también están aumentando para las poblaciones vulnerables en países con sistemas sanitarios más deficientes y en países que se enfrentan a crisis humanitarias existentes. ",
+    "ruta": "",
+    "autor": "Por ODS el 05 de Junio de 2020",
+    "content": "Los refugiados y los migrantes, así como los pueblos indígenas, los ancianos, las personas con discapacidad y los niños se encuentran especialmente en riesgo de ser excluidos. Además, el discurso de odio dirigido a los grupos vulnerables está en aumento. Si las cosas siguen como de costumbre, el 1% más rico del mundo alcanzará el 39% para 2050. Las mujeres pasan, en promedio, el doble de tiempo en el trabajo doméstico no remunerado que los hombres. Las mujeres tienen el mismo acceso a los servicios financieros que los hombres en solo el 60% de los países evaluados y a la propiedad de la tierra en solo el 42% de los países evaluados.",
+    "image": "assets/img/hambre.jpg",
+    "Link": "https://www.gob.mx/agenda2030/articulos/10-reduccion-de-las-desigualdades",
+    "referencias":"2030, A. (2021). Objetivo de Desarrollo Sostenible 10: Reducción de las Desigualdades . Retrieved 7 December 2021"
+  },
+  {
+    "title": "Desigualdad en la sociedad",
+    "piepagina": "La evidencia de los países en desarrollo muestra que los niños en el 20 por ciento más pobre de la población tienen hasta tres veces más probabilidades de morir antes de cumplir cinco años que los niños en los quintiles más ricos.",
+    "abstract": "Las formas más extremas de la desigualdad social toman la forma de opresión en distintos aspectos.",
+    "ruta": "",
+    "autor": "Por EACNUR el 28 de Octubre de 2021",
+    "content": "El individuo se ve oprimido de forma económica, política, religiosa, y cultural. Así, se comienzan a observar en la sociedad, lo que se conoce como minorías sociales. Es entonces cuando las grandes entidades o grupos igualdad social, en su manifestación más extrema causa la exclusión social de estos individuos. La exclusión social es la ruptura de los lazos entre el individuo y la sociedad. La disparidad entre los ricos y los pobres es cada vez más acentuada. Los multimillonarios se hacen cada vez más ricos y los pobres son arrastrados a una pobreza cada vez más extrema. Las personas en situación de pobreza extrema suelen encontrarse excluidas debido a la falta de recursos para salir de esta situación. Además, la ayuda social que podrían recibir requiere de procesos administrativos burocráticos, complicados o inaccesibles. La función de los trabajadores sociales en muchos países no abarca a todas las familias marginadas, perpetuando el estado de vulnerabilidad constante en que se encuentran.",
+    "image": "assets/img/dos.png",
+    "Link": "https://www.agenda2030.gob.es/objetivos/objetivo10.htm",
+    "referencias": "Agenda2030 - Objetivo 10. Reducción de las desigualdades. (2021). Retrieved 7 December 2021"
+  }
 ]

@@ -1,0 +1,19 @@
+.circular--square{
+   border-radius: 50%;
+   height: 33.2px;
+}
+
+.subcultura{
+   margin-top: 5%;
+   margin-bottom: 5%;
+}
+ 
+
+.Titulo-Subs{  
+   text-align: center;
+   font-size:  60px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-weight: bold;
+   margin-top: 20px;
+   margin-bottom: 30px;
+}

@@ -1,20 +1,28 @@
-<!-- Nav-bar -->
+<nav class="navbar navbar-expand-lg navbar-dark sticky-top" style="background-color: #0b96ff; ">
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light sticky-top">
-  <div class="container-fluid">
-    <a class="navbar-brand" href="#">Navbar</a>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
-      aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-      <div class="navbar-nav">
-        <a class="nav-link active" aria-current="page" [routerLink]="['/']" routerLinkActive="router-link-active" >Artículos</a>
-        <a class="nav-link active" [routerLink]="['/galeria']" routerLinkActive="router-link-active" >Galeria</a>
-        <a class="nav-link active" href="#" [routerLink]="['/contacto']" routerLinkActive="router-link-active" >Contacto</a>
+  <div class="container-fluid d-flex ">
+
+      <!--Logo con texto lado izquierdo-->
+      <a class="navbar-brand" href="index.html">
+          <div class="container-fluid d-flex "></div>
+          <img src="assets/img/onunegro.png" alt="" width="30" height="30"
+              class="d-inline-block align-text-center">
+              ULAS
+      </a>
+
+<!--Links parte derecha-->
+      <div class="flex-row bd-highlight">
+          <button class="navbar-toggler" data-toggle="collapse" data-target="#mainNav">
+              <span class="navbar-toggler-icon"></span>
+          </button>
+            <div class="collapse navbar-collapse" id="mainNav">
+              <div class="navbar-nav">
+                 <a class="nav-link active" aria-current="page" [routerLink]="['/']" routerLinkActive="router-link-active" >Artículos</a>
+                 <a class="nav-link active" [routerLink]="['/galeria']" routerLinkActive="router-link-active" >Galería</a>
+                 <a class="nav-link active" [routerLink]="['/subscriptores']" routerLinkActive="router-link-active" >Embajadores</a>
+                 <a class="nav-link active" href="#" [routerLink]="['/contacto']" routerLinkActive="router-link-active" >Contacto</a>
+              </div>
       </div>
-    </div>
+      </div>
   </div>
 </nav>
-
-
